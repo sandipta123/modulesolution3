@@ -1,8 +1,8 @@
-## solution to Coursera course 
+# solution to Coursera course 
 
 
 
-# MODULE 3
+## MODULE 3
 
 
 HTML,CSS AND JAVASCRIPT FOR WEB DEVELOPERS
